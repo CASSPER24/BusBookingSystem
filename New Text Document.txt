@@ -1,0 +1,38 @@
+ <form id="form2" name="form2" method="post" action="bus.php">
+      <div align="left"><span class="style2">customerid
+          <input type="text" name="customerid" />
+        </span><br />
+        <p align="left" class="style2">First name
+          <input type="text" name="fname" />
+        </p>
+        <p align="left" class="style2">Last name
+          <input type="text" name="lname" />
+
+        </p>
+
+        <p align="left" class="style2"> Address
+          <input type="int" name="address" />
+        </p>
+        <p align="left" class="style2"> Tel.No
+          <input type="text" name="phoneno" />
+        </p>
+        <p align="left" class="style2"> Travel Date
+          <input type="date" name="traveldate" />
+        </p>
+        <p align="left" class="style2"> Destination
+          <input type="text" name="destination" />
+        </p>
+         <p class="style2">
+          <input type="submit" name="Submit" value="Book" />
+          <input type="reset" name="Submit2" value="Reset" />
+        </p>
+        <br />
+        <br />
+        <br />
+        <br />
+        </div>
+        </label>
+      </p>
+      
+      
+    </form> 
